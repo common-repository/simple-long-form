@@ -1,0 +1,73 @@
+.loopimgef img{width:100%;height:auto;float:left;}
+.loopimg h2{margin:0 0 25px 0!important;font-size:22px!important;}
+.navbar {display:block!important;height:54px;}
+.navbar-header {width:56%;}
+.right-net {margin-top:0;font-size: 18px;margin-right:5px;}
+.fa-twitter,.fa-facebook,.fa-google-plus,.fa-linkedin,.fa-envelope-o,.fa-pinterest,.fa-whatsapp
+{text-align:center;width:48px;padding:22px 0 18px 0;}
+.fa-google-plus:hover,.fa-twitter:hover,.fa-facebook:hover,.fa-envelope-o:hover,.fa-linkedin:hover,
+.fa-pinterest:hover,.fa-whatsapp:hover{opacity:0.7;}
+.wh{display:none!important;}
+.navbar-fixed-top .fa-twitter,.navbar-fixed-top .fa-pinterest,.navbar-fixed-top .fa-whatsapp, .navbar-fixed-top .fa-facebook, .navbar-fixed-top .fa-google-plus, .navbar-fixed-top .fa-linkedin, .navbar-fixed-top .fa-envelope-o {padding: 18px 0 18px 0;}
+.navbar-brand {font-size: 18px;margin: 2px 10px 0 -5px;font-weight:bold;background:transparent!important;position: absolute; right: 10px; }
+.navbar-fixed-bottom .navbar-brand {font-size: 20px;margin: 2px 0 0 30px;font-weight:bold;background:transparent!important;}
+.navbar-fixed-bottom #top_title {margin: 16px 0 0 5px;}
+.navbar{max-height:54px;z-index:6000;display:none;}
+#navbar { float:right;}
+#navtop li{display:inline-block;font-size:1.4em;margin-right: 0 !important;}
+.trigger,.title{z-index:3000;}
+#button_nav{position:relative;}
+nav a:hover{text-decoration:none!important;}
+#home{display:none;}
+#side_nav a:hover{text-decoration:none;opacity:0.6;}
+#top_title{float:left;text-transform:uppercase;margin:10px 0 0 5px;}
+.effeckt-caption {float: left;overflow: hidden;}
+figcaption{padding:20px;font-size:1.5em;opacity:0.9;}
+.effeckt-caption img {width: 100%;display: block; }
+.effeckt-caption figcaption {background: rgba(0, 0, 0, 0.8);color: white; }
+.loopimg{width:25%;}
+figure {margin: 0 0 30px 0!important;cursor:pointer;}
+#plus{width:100%;margin:40px 0;}
+#container{float:none;margin: 0 auto;margin-top:40px;max-width:1400px;margin-bottom:30px;}
+#introtexte{margin:10px 15px 35px 15px;background:#EFEFEF;padding:20px 220px 20px 20px;font-size:1.25em;}
+.clear{clear:left;}
+#archives { width: 200px; display: block; clear: both; text-align: center; float: right; margin: 20px 15px 20px 20px; position: absolute; right: 15px; top: -10px; }
+#list-archive{list-style: none;margin: 0;padding-left: 0;float:none!important;width:200px;}
+#list-archive li {z-index:99999999; color: #fff;width:100%;text-align:center;display: block;
+padding: 12px;position: relative;text-decoration: none;transition-duration: 0.5s;}
+#list-archive li a {color: #fff;}
+#list-archive li:hover,#list-archive li:focus-within {cursor: pointer;}
+#list-archive li:focus-within a {outline: none;}
+#list-archive li ul {width:200px;visibility: hidden;z-index:99999999; text-align:center;opacity: 0;min-width: 2;position: absolute;transition: all 0.5s ease;margin-top: 1rem;left: -40px;display: none;}
+#list-archive a:hover{text-decoration:underline;}
+#list-archive li:hover > ul,
+#list-archive li:focus-within > ul,
+#list-archive li ul:hover,
+#list-archive li ul:focus {visibility: visible;opacity: 1;display: block}
+#list-archive li ul li {clear: both;width: 200px;z-index:99999999; }
+#list-archive #annee:hover{background: #343434;color:#FFFFFF;}
+footer{margin-top:20px;padding:15px;}
+#year{margin-left:15px;font-size:1.8em;font-weight:bold;}
+.row{padding:0 15px;}
+
+@media screen and (max-width: 800px) {
+.navbar-header {width: 62%;}
+.fa-twitter,.fa-facebook,.fa-google-plus,.fa-linkedin,.fa-pinterest,.fa-whatsapp{width:42px;margin-left:0;}
+#eo{display:none!important;}
+.wh{display:inline-block!important;opacity:1;}
+}
+@media screen and (max-width: 740px) {
+.navbar-brand{display:none;}
+#home{display:block;margin-left: 0px;margin-top: 3px;float:left;}
+.navbar-header {width: 56%;}
+.navbar-fixed-bottom .togglenav{bottom:10px;left:14px;}
+#archives {top:-80px;}
+#introtexte {margin: 80px 15px 35px 15px;padding:20px;}
+}
+@media screen and (max-width: 532px) {
+#top_title{float:left;}
+.navbar-header {width: 100%;}
+}
+@media screen and (max-width: 360px) {
+#home{display:none;}
+}

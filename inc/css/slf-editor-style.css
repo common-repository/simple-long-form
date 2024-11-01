@@ -1,0 +1,10 @@
+.panel {margin-bottom: 20px;background-color: #fff;border: 1px solid transparent;border-radius: 4px;-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);box-shadow: 0 1px 1px rgba(0, 0, 0, .05);}
+.well {min-height: 20px;padding: 19px;margin-bottom: 20px;background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);}
+.dropcap{font-size:26px; line-height:100%;padding-right:0.2em;float:left;font-weight:bold;text-indent:0;}
+.btn-slf{padding:8px;border:none;color:#FFFFFF;border-radius:3px;margin:14px 0 20px 0;}
+body  {font:15px "Helvetica Neue", Helvetica, Arial, sans-serif;}
+.panel,.well,.jumbotron{font-size:1.05em;margin: 26px 0;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
+.jumbotron{color:#FFFFFF;padding:20px;font-size:1.1em;margin: 30px 0;background:#07bac4;}
+.panel{border: 1px solid #DEDEDE;padding:20px;}
+.slf-btn{border-radius:3px;background:#07bac4;}
+.dropcap{color:#07bac4;}

@@ -1,0 +1,1467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Long Form\n"
+"POT-Creation-Date: 2022-02-25 15:17+0100\n"
+"PO-Revision-Date: 2022-02-25 15:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-long-form.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/slf-admin-styles.php:17
+msgid "Longforms"
+msgstr "Longforms"
+
+#: inc/slf-admin-styles.php:18
+msgid "Longform"
+msgstr "Longform"
+
+#: inc/slf-admin-styles.php:19
+msgid "Créer"
+msgstr "Erstellen"
+
+#: inc/slf-admin-styles.php:20
+msgid "Ajouter un Longform"
+msgstr "Longform erstellen"
+
+#: inc/slf-admin-styles.php:21
+msgid "Editer le Longform"
+msgstr "Longform bearbeiten"
+
+#: inc/slf-admin-styles.php:22
+msgid "Nouveau Longform"
+msgstr "Neue Longform"
+
+#: inc/slf-admin-styles.php:23
+msgid "Voir le Longform"
+msgstr "Longform ansehen"
+
+#: inc/slf-admin-styles.php:24
+msgid "Rechercher un Longform"
+msgstr "Longform suchen"
+
+#: inc/slf-admin-styles.php:25
+msgid "Aucun Longform trouvé"
+msgstr "Keine Longform gefunden"
+
+#: inc/slf-admin-styles.php:26
+msgid "Aucun Longform dans la corbeille"
+msgstr "Keine Longform im Papierkorb"
+
+#: inc/slf-admin-styles.php:27
+msgid "Longform (parent) :"
+msgstr "Longform (Mutter) :"
+
+#: inc/slf-admin-styles.php:110 inc/slf-meta-box.php:438
+#: inc/slf-meta-box.php:565 inc/slf-meta-box.php:673 inc/slf-meta-box.php:783
+#: inc/slf-meta-box.php:896 inc/slf-meta-box.php:1005 inc/slf-meta-box.php:1115
+#: inc/slf-meta-box.php:1225
+msgid "Choisir votre image"
+msgstr "Bild auswählen"
+
+#: inc/slf-admin-styles.php:111
+msgid "Utiliser cette image"
+msgstr "Dieses Bild benutzen"
+
+#: inc/slf-admin-styles.php:141
+msgid "Bouton"
+msgstr "Button"
+
+#: inc/slf-admin-styles.php:146
+msgid "Lettrine"
+msgstr "Initiale"
+
+#: inc/slf-admin-styles.php:151
+msgid "Encadré (fond blanc)"
+msgstr "Kasten (weißer Hintergrund)"
+
+#: inc/slf-admin-styles.php:156
+msgid "Encadré (fond gris)"
+msgstr "Kasten (grauer Hintergrund)"
+
+#: inc/slf-admin-styles.php:161
+msgid "Encadré (fond de couleur)"
+msgstr "Kasten (farbiger Hintergrund)"
+
+#: inc/slf-admin-styles.php:227
+msgid " pending"
+msgid_plural " pending"
+msgstr[0] " ausstehend"
+msgstr[1] " ausstehende"
+
+#: inc/slf-admin-styles.php:256
+msgid "Activité des Long Form"
+msgstr "Simple Long Form Aktivitäten"
+
+#: inc/slf-duplicate.php:46
+msgid "Dupliquer le template"
+msgstr "Vorlage duplizieren"
+
+#: inc/slf-meta-box.php:25
+msgid "Note"
+msgstr "Notiz"
+
+#: inc/slf-meta-box.php:31
+msgid ""
+"Aucun champ n'est obligatoire: non complété, il ne sera pas affiché. Les "
+"titres s'ajoutent automatiquement au menu intrapage. Pour afficher une image "
+"ou une vidéo en plein écran, ne pas compléter le champ du titre. La mise en "
+"forme des titres est uniquement prise en compte lorsque celui-ci est "
+"accompagné d'un média (image ou vidéo)."
+msgstr ""
+"Es ist kein Feld erforderlich: nicht ausgefüllt, wird es nicht angezeigt. "
+"Titel werden automatisch zum Intrapage-Menü hinzugefügt. Um ein Vollbild "
+"oder Video anzuzeigen, füllen Sie das Titelfeld nicht aus. Das Titellayout "
+"wird nur berücksichtigt, wenn es von einem Medium (Bild oder Video) "
+"begleitet wird."
+
+#: inc/slf-meta-box.php:39
+msgid "Réglages"
+msgstr "Einstellungen"
+
+#: inc/slf-meta-box.php:42
+msgid "Configuration"
+msgstr "Einstellungen"
+
+#: inc/slf-meta-box.php:50
+msgid "Général"
+msgstr "Allgemein"
+
+#: inc/slf-meta-box.php:51 inc/slf-meta-box.php:380
+msgid "Intro"
+msgstr "Einleitung"
+
+#: inc/slf-meta-box.php:52
+msgid "Nav"
+msgstr "Nav"
+
+#: inc/slf-meta-box.php:56 inc/slf-meta-box.php:156 inc/slf-meta-box.php:235
+#: inc/slf-options.php:331
+msgid "Couleur du thème"
+msgstr "Farbe des Themes"
+
+#: inc/slf-meta-box.php:61
+msgid "Couleur du texte"
+msgstr "Textfarbe"
+
+#: inc/slf-meta-box.php:66 inc/slf-meta-box.php:233
+msgid "Couleur d'arrière-plan"
+msgstr "Hintergrundfarbe"
+
+#: inc/slf-meta-box.php:71
+msgid "Police de caractères (textes)"
+msgstr "Schriftart des Fließtextes"
+
+#: inc/slf-meta-box.php:74
+msgid "Arial, Helvetica, sans-serif"
+msgstr "Arial, Helvetica, sans-serif"
+
+#: inc/slf-meta-box.php:75
+msgid "Georgia, serif"
+msgstr "Georgia, serif"
+
+#: inc/slf-meta-box.php:76
+msgid "Tahoma, Geneva, sans-serif"
+msgstr "Tahoma, Geneva, sans-serif"
+
+#: inc/slf-meta-box.php:77
+msgid "Times New Roman, Times, serif"
+msgstr "Times New Roman, Times, serif"
+
+#: inc/slf-meta-box.php:78
+msgid "Verdana, Geneva, sans-serif"
+msgstr "Verdana, Geneva, sans-serif"
+
+#: inc/slf-meta-box.php:79 inc/slf-meta-box.php:104
+msgid "Arvo, serif"
+msgstr "Arvo, serif"
+
+#: inc/slf-meta-box.php:80 inc/slf-meta-box.php:105
+msgid "Droid Sans, sans-serif"
+msgstr "Droid Sans, sans-serif"
+
+#: inc/slf-meta-box.php:81 inc/slf-meta-box.php:106
+msgid "Open Sans, sans-serif"
+msgstr "Open Sans, sans-serif"
+
+#: inc/slf-meta-box.php:82 inc/slf-meta-box.php:107
+msgid "Roboto, sans-serif"
+msgstr "Roboto, sans-serif"
+
+#: inc/slf-meta-box.php:83
+msgid "Roboto Slab, serif"
+msgstr "Roboto Slab, serif"
+
+#: inc/slf-meta-box.php:84 inc/slf-meta-box.php:109
+msgid "Lato, sans-serif"
+msgstr "Lato, sans-serif"
+
+#: inc/slf-meta-box.php:85 inc/slf-meta-box.php:110
+msgid "Ubuntu Condensed, sans-serif"
+msgstr "Ubuntu Condensed, sans-serif"
+
+#: inc/slf-meta-box.php:86 inc/slf-meta-box.php:111
+msgid "Inconsolata, cursive"
+msgstr "Inconsolata, cursive"
+
+#: inc/slf-meta-box.php:87 inc/slf-meta-box.php:112
+msgid "Playfair Display, serif"
+msgstr "Playfair Display, serif"
+
+#: inc/slf-meta-box.php:88 inc/slf-meta-box.php:114
+msgid "Roboto Light, sans-serif"
+msgstr "Roboto Light, sans-serif"
+
+#: inc/slf-meta-box.php:89 inc/slf-meta-box.php:115
+msgid "Bree, serif"
+msgstr "Bree, serif"
+
+#: inc/slf-meta-box.php:90 inc/slf-meta-box.php:116
+msgid "Oswald regular, sans-serif"
+msgstr "Oswald regular, sans-serif"
+
+#: inc/slf-meta-box.php:91 inc/slf-meta-box.php:117
+msgid "Oswal bold, sans-serif"
+msgstr "Oswal bold, sans-serif"
+
+#: inc/slf-meta-box.php:92 inc/slf-meta-box.php:118
+msgid "Lobster, cursive"
+msgstr "Lobster, cursive"
+
+#: inc/slf-meta-box.php:93 inc/slf-meta-box.php:119
+msgid "Lobster Two, cursive"
+msgstr "Lobster Two, cursive"
+
+#: inc/slf-meta-box.php:94 inc/slf-meta-box.php:120
+msgid "Montserrat, sans-serif"
+msgstr "Montserrat, sans-serif"
+
+#: inc/slf-meta-box.php:95 inc/slf-meta-box.php:121
+msgid "Montserrat Alternate, sans-serif"
+msgstr "Montserrat Alternate, sans-serif"
+
+#: inc/slf-meta-box.php:96 inc/slf-meta-box.php:113
+msgid "Raleway, sans-serif"
+msgstr "Raleway, sans-serif"
+
+#: inc/slf-meta-box.php:100
+msgid "Police de caractères (titres et légende des sections)"
+msgstr "Schriftart für Titel und Abschnittstitel"
+
+#: inc/slf-meta-box.php:103
+msgid "Par défaut"
+msgstr "Default"
+
+#: inc/slf-meta-box.php:108
+msgid "Roboto Slab,serif"
+msgstr "Roboto Slab, serif"
+
+#: inc/slf-meta-box.php:126
+msgid "Taille du texte"
+msgstr "Textgröße"
+
+#: inc/slf-meta-box.php:129 inc/slf-meta-box.php:138
+msgid "Medium"
+msgstr "mittel"
+
+#: inc/slf-meta-box.php:130 inc/slf-meta-box.php:139
+msgid "Large"
+msgstr "groß"
+
+#: inc/slf-meta-box.php:131 inc/slf-meta-box.php:140
+msgid "Small"
+msgstr "klein"
+
+#: inc/slf-meta-box.php:135
+msgid "Largeur de la colonne centrale"
+msgstr "Breite der zentralen Spalte"
+
+#: inc/slf-meta-box.php:144
+msgid "Style des blocs de citation"
+msgstr "Stil für Blockquotes"
+
+#: inc/slf-meta-box.php:146
+msgid "Bordure gauche"
+msgstr "Rand links"
+
+#: inc/slf-meta-box.php:147
+msgid "Bordure droite"
+msgstr "Rand rechts"
+
+#: inc/slf-meta-box.php:148
+msgid "Bordure inférieure"
+msgstr "Rand unten"
+
+#: inc/slf-meta-box.php:149
+msgid "Entre guillements (pas de bordure)"
+msgstr "Zwischen Anführungszeichen (kein Rand)"
+
+#: inc/slf-meta-box.php:154
+#, fuzzy
+#| msgid "Style des blocs de citation"
+msgid "Bordure des blocs de citation"
+msgstr "Stil für Blockquotes"
+
+#: inc/slf-meta-box.php:157
+msgid "Couleur du thème pointillé"
+msgstr "In der Farbe des Themes gepunktet"
+
+#: inc/slf-meta-box.php:158
+msgid "Gris clair"
+msgstr "Lichtgrau"
+
+#: inc/slf-meta-box.php:159
+msgid "Gris clair pointillé"
+msgstr "Lichtgrau gepunktet"
+
+#: inc/slf-meta-box.php:167
+msgid "Chargement de la page"
+msgstr "Beim Laden der Seite"
+
+#: inc/slf-meta-box.php:169
+msgid "Afficher le nom de l'auteur"
+msgstr "Namen des Autors anzeigen"
+
+#: inc/slf-meta-box.php:171 inc/slf-meta-box.php:245 inc/slf-meta-box.php:263
+#: inc/slf-meta-box.php:272 inc/slf-meta-box.php:430
+msgid "Oui"
+msgstr "Ja"
+
+#: inc/slf-meta-box.php:172 inc/slf-meta-box.php:244 inc/slf-meta-box.php:264
+#: inc/slf-meta-box.php:273 inc/slf-meta-box.php:431
+msgid "Non"
+msgstr "Nein"
+
+#: inc/slf-meta-box.php:177
+msgid "Effet de disparition du loader"
+msgstr "Effekt nach erfolgtem Laden"
+
+#: inc/slf-meta-box.php:180
+msgid "Fondu"
+msgstr "Einblenden"
+
+#: inc/slf-meta-box.php:181
+msgid "Animation"
+msgstr "Einrollen"
+
+#: inc/slf-meta-box.php:186
+msgid "Effet d'intro"
+msgstr "Effekt der Einleitung"
+
+#: inc/slf-meta-box.php:189
+msgid "Jump"
+msgstr "Springen"
+
+#: inc/slf-meta-box.php:190
+msgid "Push"
+msgstr "Drücken"
+
+#: inc/slf-meta-box.php:195
+msgid "Bouton \"trigger\""
+msgstr "Stil der \"Weiter\"-Schaltfläche"
+
+#: inc/slf-meta-box.php:198
+msgid "Flèche (small)"
+msgstr "Pfeil (klein)"
+
+#: inc/slf-meta-box.php:199
+msgid "Flèche (small) avec bordure"
+msgstr "Pfeil (klein) mit Grenze"
+
+#: inc/slf-meta-box.php:200
+msgid "Flèche (medium)"
+msgstr "Pfeil (Mittel)"
+
+#: inc/slf-meta-box.php:201
+msgid "Flèche (medium) avec bordure"
+msgstr "Pfeil (Mittel) mit Grenze"
+
+#: inc/slf-meta-box.php:202
+msgid "Flèche (full)"
+msgstr "Pfeil (voll)"
+
+#: inc/slf-meta-box.php:209
+msgid "Position de la barre de progression"
+msgstr "Position der Statusanzeige"
+
+#: inc/slf-meta-box.php:212 inc/slf-meta-box.php:228
+msgid "Haut de page"
+msgstr "Oben auf der Seite"
+
+#: inc/slf-meta-box.php:213 inc/slf-meta-box.php:229
+msgid "Bas de page"
+msgstr "Unten auf der Seite"
+
+#: inc/slf-meta-box.php:214
+msgid "Pas de barre de défilement"
+msgstr "Keine Bildlaufleiste"
+
+#: inc/slf-meta-box.php:223
+msgid "Barre de navigation fixe"
+msgstr "Navigationsleiste"
+
+#: inc/slf-meta-box.php:225
+msgid "Position"
+msgstr "Position"
+
+#: inc/slf-meta-box.php:236 inc/slf-meta-box.php:255 inc/slf-meta-box.php:421
+#: inc/slf-meta-box.php:556 inc/slf-meta-box.php:664 inc/slf-meta-box.php:774
+#: inc/slf-meta-box.php:887 inc/slf-meta-box.php:996 inc/slf-meta-box.php:1106
+#: inc/slf-meta-box.php:1216
+msgid "Blanc"
+msgstr "Weiß"
+
+#: inc/slf-meta-box.php:237 inc/slf-meta-box.php:422 inc/slf-meta-box.php:557
+#: inc/slf-meta-box.php:665 inc/slf-meta-box.php:775 inc/slf-meta-box.php:888
+#: inc/slf-meta-box.php:997 inc/slf-meta-box.php:1107 inc/slf-meta-box.php:1217
+msgid "Noir"
+msgstr "Schwarz"
+
+#: inc/slf-meta-box.php:242
+msgid "Ajouter un effet d'ombrage"
+msgstr "Schatteneffekt hinzufügen"
+
+#: inc/slf-meta-box.php:250
+msgid "Icônes réseaux sociaux"
+msgstr "Social-Networking-Icons"
+
+#: inc/slf-meta-box.php:252
+msgid "Couleur du thème (positif)"
+msgstr "Farbe des Themes (positiv)"
+
+#: inc/slf-meta-box.php:253
+msgid "Couleur du thème (négatif)"
+msgstr "Farbe des Themes (negativ)"
+
+#: inc/slf-meta-box.php:254
+msgid "Couleurs originales"
+msgstr "Originalfarben"
+
+#: inc/slf-meta-box.php:260
+msgid "Afficher le titre du longform"
+msgstr "Titel der Longform anzeigen"
+
+#: inc/slf-meta-box.php:269
+msgid "Afficher le titre du site web"
+msgstr "Titel der Website anzeigen"
+
+#: inc/slf-meta-box.php:277
+msgid "Navigation intrapage"
+msgstr "Intrapage-Navigation"
+
+#: inc/slf-meta-box.php:280
+msgid "Type de navigation"
+msgstr "Art der Navigation"
+
+#: inc/slf-meta-box.php:282
+msgid "Titres des sections (menu latérail)"
+msgstr "Abschnittsüberschriften (Latérail-Menü)"
+
+#: inc/slf-meta-box.php:283
+msgid "Cercles (menu horizontal)"
+msgstr "Kreise (horizontales Menü)"
+
+#: inc/slf-meta-box.php:284
+msgid "Pas de navigation intrapage"
+msgstr "Keine Navigationsseite"
+
+#: inc/slf-meta-box.php:289
+msgid "Style du burger (si navigation intrapage)"
+msgstr "Burger-Stil (wenn Intrapage-Navigation)"
+
+#: inc/slf-meta-box.php:292
+msgid "Avec bordure"
+msgstr "Mit Rand"
+
+#: inc/slf-meta-box.php:293
+msgid "Sans bordure"
+msgstr "Ohne Rand"
+
+#: inc/slf-meta-box.php:298
+msgid "Couleur de fond"
+msgstr "Hintergrundfarbe"
+
+#: inc/slf-meta-box.php:304
+msgid "Couleur des liens"
+msgstr "Farbe der Links"
+
+#: inc/slf-meta-box.php:381
+msgid "Section 1"
+msgstr "Abschnitt 1"
+
+#: inc/slf-meta-box.php:382
+msgid "Section 2"
+msgstr "Abschnitt 2"
+
+#: inc/slf-meta-box.php:383
+msgid "Section 3"
+msgstr "Abschnitt 3"
+
+#: inc/slf-meta-box.php:384
+msgid "Section 4"
+msgstr "Abschnitt 4"
+
+#: inc/slf-meta-box.php:385
+msgid "Section 5"
+msgstr "Abschnitt 5"
+
+#: inc/slf-meta-box.php:386
+msgid "Section 6"
+msgstr "Abschnitt 6"
+
+#: inc/slf-meta-box.php:387
+msgid "Section 7"
+msgstr "Abschnitt 7"
+
+#: inc/slf-meta-box.php:388
+msgid "Footer"
+msgstr "Fußbereich"
+
+#: inc/slf-meta-box.php:397
+msgid "Auteur(s)"
+msgstr "Autor(en)"
+
+#: inc/slf-meta-box.php:401
+msgid "Auteur(s) des photos"
+msgstr "Fotos"
+
+#: inc/slf-meta-box.php:405
+msgid "Sous-titre"
+msgstr "Untertitel"
+
+#: inc/slf-meta-box.php:409
+msgid "Alignement du titre uniquement si image ou vidéo en background"
+msgstr "Ausrichtung des Titels nur, wenn Bild oder Video im Hintergrund"
+
+#: inc/slf-meta-box.php:412
+msgid "Centré"
+msgstr "zentriert"
+
+#: inc/slf-meta-box.php:413 inc/slf-meta-box.php:547 inc/slf-meta-box.php:655
+#: inc/slf-meta-box.php:765 inc/slf-meta-box.php:878 inc/slf-meta-box.php:987
+#: inc/slf-meta-box.php:1097 inc/slf-meta-box.php:1207
+msgid "Gauche"
+msgstr "links"
+
+#: inc/slf-meta-box.php:414 inc/slf-meta-box.php:549 inc/slf-meta-box.php:657
+#: inc/slf-meta-box.php:767 inc/slf-meta-box.php:880 inc/slf-meta-box.php:989
+#: inc/slf-meta-box.php:1099 inc/slf-meta-box.php:1209
+msgid "Droite"
+msgstr "rechts"
+
+#: inc/slf-meta-box.php:418 inc/slf-meta-box.php:553 inc/slf-meta-box.php:661
+#: inc/slf-meta-box.php:771 inc/slf-meta-box.php:884 inc/slf-meta-box.php:993
+#: inc/slf-meta-box.php:1103 inc/slf-meta-box.php:1213
+msgid "Couleur du titre"
+msgstr "Schriftfarbe des Titels"
+
+#: inc/slf-meta-box.php:423 inc/slf-meta-box.php:558 inc/slf-meta-box.php:666
+#: inc/slf-meta-box.php:776 inc/slf-meta-box.php:889 inc/slf-meta-box.php:998
+#: inc/slf-meta-box.php:1108 inc/slf-meta-box.php:1218
+msgid "Blanc sur couleur du thème"
+msgstr "Weiß auf der Farbe des Themes"
+
+#: inc/slf-meta-box.php:427
+msgid "Afficher la date"
+msgstr "Datum anzeigen"
+
+#: inc/slf-meta-box.php:435
+msgid "Image de fond (intro)"
+msgstr "Hintergrundbild Intro"
+
+#: inc/slf-meta-box.php:445 inc/slf-meta-box.php:572 inc/slf-meta-box.php:680
+#: inc/slf-meta-box.php:790 inc/slf-meta-box.php:903 inc/slf-meta-box.php:1012
+#: inc/slf-meta-box.php:1122 inc/slf-meta-box.php:1232
+msgid "Supprimer"
+msgstr "Entfernen"
+
+#: inc/slf-meta-box.php:445 inc/slf-meta-box.php:572 inc/slf-meta-box.php:680
+#: inc/slf-meta-box.php:790 inc/slf-meta-box.php:903 inc/slf-meta-box.php:1012
+#: inc/slf-meta-box.php:1122 inc/slf-meta-box.php:1232
+msgid "Supprimer l'image"
+msgstr "Bild entfernen"
+
+#: inc/slf-meta-box.php:451 inc/slf-meta-box.php:582 inc/slf-meta-box.php:691
+#: inc/slf-meta-box.php:801 inc/slf-meta-box.php:914 inc/slf-meta-box.php:1023
+#: inc/slf-meta-box.php:1133 inc/slf-meta-box.php:1243
+msgid "OU video en fond d'écran (copier-coller votre code embed)"
+msgstr "Video statt Hintergrundbild (Code einbetten)"
+
+#: inc/slf-meta-box.php:456
+msgid "Ajouter le contenu (chapeau)"
+msgstr "Einleitung hinzufügen"
+
+#: inc/slf-meta-box.php:468
+msgid "Ajouter du texte (optionnel)"
+msgstr "Text hinzufügen (optional)"
+
+#: inc/slf-meta-box.php:489 inc/slf-meta-box.php:608 inc/slf-meta-box.php:717
+#: inc/slf-meta-box.php:829 inc/slf-meta-box.php:940 inc/slf-meta-box.php:1049
+#: inc/slf-meta-box.php:1159
+msgid "Ajouter une nouvelle section +"
+msgstr "Abschnitt hinzufügen +"
+
+#: inc/slf-meta-box.php:540 inc/slf-meta-box.php:648 inc/slf-meta-box.php:758
+#: inc/slf-meta-box.php:871 inc/slf-meta-box.php:980 inc/slf-meta-box.php:1090
+#: inc/slf-meta-box.php:1200
+msgid "Titre de la section"
+msgstr "Abschnittstitel"
+
+#: inc/slf-meta-box.php:544 inc/slf-meta-box.php:652 inc/slf-meta-box.php:762
+#: inc/slf-meta-box.php:875 inc/slf-meta-box.php:984 inc/slf-meta-box.php:1094
+#: inc/slf-meta-box.php:1204
+msgid "Alignement du titre"
+msgstr "Ausrichtung des Titeltextes"
+
+#: inc/slf-meta-box.php:548 inc/slf-meta-box.php:656 inc/slf-meta-box.php:766
+#: inc/slf-meta-box.php:879 inc/slf-meta-box.php:988 inc/slf-meta-box.php:1098
+#: inc/slf-meta-box.php:1208
+msgid "Centre"
+msgstr "zentriert"
+
+#: inc/slf-meta-box.php:562
+msgid "Image de fond (intro de la section)"
+msgstr "Hintergrundbild am Abschnittsbeginn"
+
+#: inc/slf-meta-box.php:578 inc/slf-meta-box.php:686 inc/slf-meta-box.php:796
+#: inc/slf-meta-box.php:909 inc/slf-meta-box.php:1018 inc/slf-meta-box.php:1128
+#: inc/slf-meta-box.php:1238
+msgid "Légende de l'image"
+msgstr "Bildunterschrift"
+
+#: inc/slf-meta-box.php:587 inc/slf-meta-box.php:696 inc/slf-meta-box.php:807
+#: inc/slf-meta-box.php:919 inc/slf-meta-box.php:1028 inc/slf-meta-box.php:1138
+#: inc/slf-meta-box.php:1248 inc/slf-meta-box.php:1293
+msgid "Ajouter le contenu"
+msgstr "Inhalt hinzufügen"
+
+#: inc/slf-meta-box.php:670 inc/slf-meta-box.php:780 inc/slf-meta-box.php:893
+#: inc/slf-meta-box.php:1002 inc/slf-meta-box.php:1112
+#: inc/slf-meta-box.php:1222
+msgid "Image de fond"
+msgstr "Hintergrundbild"
+
+#: inc/slf-meta-box.php:1304
+msgid "Style additionnel (utilisateur avancé)"
+msgstr "Zusätzliche Style-Angaben (für fortgeschrittene Benutzer)"
+
+#: inc/slf-options.php:8
+msgid "Vos droits ne sont pas suffisants pour accéder à cette page."
+msgstr "Zugang verweigert."
+
+#: inc/slf-options.php:14
+msgid "Simple Long Form - options"
+msgstr "Simple Long Form - Optionen"
+
+#: inc/slf-options.php:17
+msgid "Options enregistrées"
+msgstr "Optionen gespeichert"
+
+#: inc/slf-options.php:21
+msgid "Options générales"
+msgstr "Allgemeine Optionen"
+
+#: inc/slf-options.php:22
+msgid "Métadonnées"
+msgstr "Metadaten"
+
+#: inc/slf-options.php:23
+msgid "Archives"
+msgstr "Archive"
+
+#: inc/slf-options.php:24
+msgid "Typographie"
+msgstr "Typografie"
+
+#: inc/slf-options.php:25
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/slf-options.php:42
+msgid ""
+"Tous vos longs formats dans une seule page ? Rendez-vous sur la page des "
+"archives disponible au lien /longform (à la suite de votre URL). <br/> Les "
+"paramètres d'affichage de cette page seront ceux de votre dernier long "
+"format publié."
+msgstr ""
+"Alle Ihre Longforms auf einer Seite? Gehen Sie zur Archivseite, die unter "
+"link / longform verfügbar ist (nach Ihrer URL). <br/> Die "
+"Anzeigeeinstellungen auf dieser Seite entsprechen denen Ihres letzten "
+"veröffentlichten Langformats."
+
+#: inc/slf-options.php:44
+msgid "Cliquez ici pour voir la démo"
+msgstr "Klicken Sie hier, um die Demo zu sehen"
+
+#: inc/slf-options.php:59
+msgid ""
+"Décochez cette case si vous ne souhaitez pas intégrer les métadonnées Open "
+"Graph, Twitter et Dublin Core (si le plugin est lié à votre installation "
+"WordPress, ce n'est peut-être pas nécessaire. Laissez cette option cochée si "
+"vous n'avez pas de système de gestion des métadonnées. Saviez-vous que le "
+"plugin Simple Metadata Generator permet de gérer ses métadonnées en quelques "
+"clics pour l'ensemble de votre installation (à condition de lier le plugin à "
+"WP) ?"
+msgstr ""
+"Deaktivieren Sie diese Option, wenn Sie nicht wollen, dass Open Graph-, "
+"Twitter- und Dublin Core-Metadaten eingebunden werden (wenn das Plugin auf "
+"Ihrer WordPress-Installation vorhanden ist, ist dies vielleicht nicht "
+"notwendig). Lassen Sie diese Option aktiviert, wenn Sie ein Metadaten-"
+"Management-System haben. Wussten Sie, dass das \"Plugin Simple Metadata "
+"Generator\" es ermöglicht, seine Metadaten mit ein paar Klicks für alle "
+"Ihrer Installation zu verwalten (falls Sie das Plugin mit WP verlinkt haben)?"
+
+#: inc/slf-options.php:61
+msgid "Rendez-vous sur cette page pour en savoir plus"
+msgstr "Weitere Informationen"
+
+#: inc/slf-options.php:78
+msgid ""
+"5 familles typographiques standards sont disponibles pour la mise en forme "
+"du texte, et 5 Google Fonts pour customiser les titres de chaque Long Form."
+msgstr ""
+"Fünf Schriftfamilien sind für den Fließtext verfügbar, ebenso weitere fünf "
+"für das Formatieren der Titel einer jeden Longform."
+
+#: inc/slf-options.php:79
+msgid "Polices standards"
+msgstr "Standard-Schriften"
+
+#: inc/slf-options.php:81
+msgid "Polices (versions 1.0 et 2.0)"
+msgstr "Schriften (Versionen 1.0 und 2.0)"
+
+#: inc/slf-options.php:83
+msgid "Nouvelles polices (version 3.0)"
+msgstr "Neue Schriftarten (Version 3.0)"
+
+#: inc/slf-options.php:94
+msgid ""
+"Simple Long Form est basé sur le framework <a href=\"http://getbootstrap.com"
+"\" target=\"_blank\">Bootstrap.js</a>. Ce qui signifie, pour ceux qui "
+"souhaitent plonger leurs mains dans le code, qu'il est possible d'enrichir "
+"chaque longform avec les différents composants de Bootstrap. Ces composants "
+"dynamiques sont activés en javascript : tooltip, popover, modal."
+msgstr ""
+"SLF basiert auf dem <a href=\"http://getbootstrap.com\" target=\"_blank"
+"\">Bootstrap.js-Framework</a>. Das bedeutet für diejenigen, die ihre Hände "
+"in den Code tauchen möchten, dass es möglich ist, jede Longform mit den "
+"verschiedenen Komponenten von Bootstrap zu bereichern. Diese dynamischen "
+"Komponenten sind in Javascript aktiviert: Tooltip, Popover, Modal."
+
+#: inc/slf-options.php:97
+msgid ""
+"Deux types de galeries d’images, basées sur Bootstrap 3.0, sont également "
+"intégrées : les galeries pop-up et les galeries \"slider\". "
+msgstr ""
+"Zwei Arten von Bildergalerien, die auf Bootstrap 3.0 basieren, sind "
+"ebenfalls integriert: Pop-up-Galerien und Schieberegalerien. "
+
+#: inc/slf-options.php:103
+msgid "Démo : "
+msgstr "Demo: "
+
+#: inc/slf-options.php:107
+msgid ""
+"Pour en savoir plus sur la gestion des galeries photos et celle des "
+"composants Bootstrap, une documentation en français est développée sur le "
+"site de l'auteure :"
+msgstr ""
+"Erfahren Sie mehr über die Verwaltung von Galerie-Bildern und über "
+"Bestandteile der Bootstrap , eine Dokumentation (auf Französisch) wurde auf "
+"der Website des Autors erstellt:"
+
+#: inc/slf-options.php:113
+msgid "De la documentation en anglais est disponible sur cette page :"
+msgstr "Die englischsprachige Dokumentation ist auf dieser Seite verfügbar:"
+
+#: inc/slf-options.php:119
+msgid "Le répertoire des plugins de WordPress propose également une FAQ : "
+msgstr "Das WordPress-Plugin-Verzeichnis bietet auch eine FAQ: "
+
+#: inc/slf-options.php:142
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: inc/slf-options.php:151
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/slf-options.php:160
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/slf-options.php:169
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/slf-options.php:178
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/slf-options.php:187
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/slf-options.php:290
+msgid ""
+"Si vous ne choisissez aucune couleur, la couleur par défaut de votre dernier "
+"long format sera appliquée à la page."
+msgstr ""
+"Wenn Sie keine Farbe auswählen, wird die Standardfarbe der letzten Longform "
+"angewendet."
+
+#: inc/slf-options.php:296 inc/slf-options.php:300 inc/slf-options.php:301
+#: inc/slf-options.php:302 inc/slf-options.php:303 inc/slf-options.php:304
+#: inc/slf-options.php:326
+msgid " "
+msgstr " "
+
+#: inc/slf-options.php:298
+msgid "Ajouter votre identifiant Twitter (@monNom)"
+msgstr "TwitterID hinzufügen (@MeinName)"
+
+#: inc/slf-options.php:299
+msgid "Boutons de partage"
+msgstr "Social-Media-Buttons"
+
+#: inc/slf-options.php:305
+msgid "Lien vers le longform suivant-précédent"
+msgstr "Link zur nächsten / vorherigen Longform anzeigen"
+
+#: inc/slf-options.php:306
+msgid "Ajouter votre code Google Analytics (<script>...</script>)"
+msgstr "Google Analytics-Code einfügen  (<script>...</script>)"
+
+#: inc/slf-options.php:307
+msgid "Lier à WP et aux plugins (peut causer des problèmes de compatibilité)"
+msgstr ""
+"Verlinke mit WordPress und Plugins (kann Kompatibilitätsprobleme verursachen)"
+
+#: inc/slf-options.php:308
+msgid "Ajouter les longforms aux pages des catégories et des tags"
+msgstr "Hinzufügen von Longforms zu Kategorien- und Tag-Seiten"
+
+#: inc/slf-options.php:309
+msgid ""
+"Ajouter les longforms aux résultats de recherche (si pas ajouté "
+"automatiquement par WP)"
+msgstr ""
+"Longforms zu den Suchergebnissen hinzufügen (falls nicht automatisch von WP "
+"hinzugefügt)"
+
+#: inc/slf-options.php:310
+msgid ""
+"Ajouter les longforms à la page d'accueil (peut causer des problèmes de "
+"compatibilité)"
+msgstr ""
+"Longforms zur Homepage hinzufügen (kann Kompatibilitätsprobleme verursachen)"
+
+#: inc/slf-options.php:327
+msgid "Ajouter toutes les métadonnées"
+msgstr "Alle Metadaten hinzufügen"
+
+#: inc/slf-options.php:332
+msgid "Ajouter un ombrage sous la navbar"
+msgstr "Schatteneffekt unter der Navigationsleiste hinzufügen"
+
+#: inc/slf-options.php:333
+msgid "Titre de la page d'archives (optionnel)"
+msgstr "Titel der Archive-Seite (optional)"
+
+#: inc/slf-options.php:334
+msgid "Afficher une liste déroulante des archives par année"
+msgstr "Eine Dropdown-Liste der jährlichen Archive anzeigen"
+
+#: inc/slf-options.php:335
+msgid "Intégrez un bloc de texte en tête de page (optionnel)"
+msgstr "Einen Textblock am oberen Rand der Seite einfügen (optional)"
+
+#: inc/slf-options.php:336
+msgid "Intégrez un bloc de texte en pied de page (optionnel)"
+msgstr "Einen Textblock am unteren Rand der Seite einfügen (optional)"
+
+#: inc/slf-widget.php:37
+msgid "Titre :"
+msgstr "Titel:"
+
+#: inc/slf-widget.php:41
+msgid "Nbre de Long Form à afficher :"
+msgstr "Anzahl der angezeigten Longform-Artikel:"
+
+#: templates/comments.php:21
+#, php-format
+msgctxt "comments title"
+msgid "Un commentaire pour \"%2$s\""
+msgid_plural "%1$s commentaires pour \"%2$s\""
+msgstr[0] "Ein Kommentar zu \"%2$s\""
+msgstr[1] "%1$s Kommentare zu \"%2$s\""
+
+#: templates/comments.php:41
+msgid "Navigation"
+msgstr "Navigation"
+
+#: templates/comments.php:42
+msgid "&larr; Anciens commentaires"
+msgstr "&larr; vorherige Kommentare"
+
+#: templates/comments.php:43
+msgid "Nouveaux commentaires &rarr;"
+msgstr "Neue Kommentare &rarr;"
+
+#: templates/comments.php:48
+msgid "Les commentaires sont fermés."
+msgstr "Kein Kommentieren mehr möglich."
+
+#: templates/slf.php:157
+msgid "Fermer"
+msgstr "Schließen"
+
+#: templates/slf_archives.php:31
+msgid "Longforms (archives)"
+msgstr "Longform (Archive)"
+
+#: templates/slf_archives.php:50
+msgid "Archives par année"
+msgstr "Archive (nach Jahren)"
+
+#: templates/slf_archives.php:52
+msgid "Voir tout"
+msgstr "Alle ansehen"
+
+#: templates/slf_content.php:8
+msgid "Photos : "
+msgstr "Fotos: "
+
+#: templates/slf_content.php:11
+msgid "j F Y"
+msgstr "j. F Y"
+
+#: templates/slf_content.php:449
+msgid "Cet article est protégé par mot de passe :"
+msgstr "Dieser Artikel ist passwortgeschützt:"
+
+#: templates/slf_networks.php:2 templates/slf_networks.php:3
+msgid "Partager par e-mail"
+msgstr "Artikel versenden"
+
+#: templates/slf_networks.php:2
+msgid "Un ami souhaite partager cet article avec vous :"
+msgstr "Ein Freund möchte Dir diesen Artikel zeigen:"
+
+#: templates/slf_networks.php:2
+msgid "Découvrez :"
+msgstr "Ansehen:"
+
+#: templates/slf_networks.php:6
+msgid "Partager cet article sur Twitter"
+msgstr "Auf Twitter teilen"
+
+#: templates/slf_networks.php:9
+msgid "Partager sur Facebook"
+msgstr "Auf Facebook teilen"
+
+#: templates/slf_networks.php:10
+msgid "Partager cet article sur Facebook"
+msgstr "Auf Facebook teilen"
+
+#: templates/slf_networks.php:12 templates/slf_networks.php:13
+msgid "Partager sur LinkedIn"
+msgstr "Auf LinkedIn teilen"
+
+#: templates/slf_networks.php:16
+msgid "Partager sur Pinterest"
+msgstr "Auf Pinterest teilen"
+
+#: templates/slf_networks.php:19
+msgid "Partager sur WhatsApp"
+msgstr "Auf WhatsApp teilen"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Long Form"
+msgstr "Simple Long Form"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://journodev.tech"
+msgstr "https://journodev.tech"
+
+#. Description of the plugin/theme
+msgid ""
+"Réaliser des longs formats sous Wordpress, le plugin facile pour des "
+"histoires qui scrollent."
+msgstr ""
+"Ein WordPress-Plugin zum leichten Erstellen von langen Geschichten mit "
+"Scroll-Effekten. Deutsche Übersetzung - Dank an Christiane und Ralph"
+
+#. Author of the plugin/theme
+msgid "Laurence/OhMyBox.info"
+msgstr "Laurence/OhMyBox.info"
+
+#~ msgid "Contenu"
+#~ msgstr "Inhalt"
+
+#~ msgid "Chargement de la page (loader)"
+#~ msgstr "Symbol beim Laden"
+
+#~ msgid "Cercle"
+#~ msgstr "Kreis"
+
+#~ msgid "Barre"
+#~ msgstr "Balken"
+
+#~ msgid "Texte"
+#~ msgstr "Text"
+
+#~ msgid "Texte du bouton \"trigger\""
+#~ msgstr "Beschriftung der \"Weiter\"-Schaltfläche"
+
+#~ msgid "Ex. : Lire la suite"
+#~ msgstr "Weiterlesen..."
+
+#~ msgid "Navigation dynamique intrapage"
+#~ msgstr "Navigation-Dynamik-Intrapage"
+
+#~ msgid "Cercles"
+#~ msgstr "Kreise"
+
+#~ msgid "Chargement"
+#~ msgstr "Lade..."
+
+#~ msgid "http://www.ohmybox.info"
+#~ msgstr "http://www.ohmybox.info"
+
+#~ msgid "Flèche (regular)"
+#~ msgstr "Pfeil (normal)"
+
+#~ msgid "Flèche (regular) avec bordure"
+#~ msgstr "Pfeil (normal) mit Rand"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "par"
+#~ msgstr "von"
+
+#~ msgid "Partager sur Google+"
+#~ msgstr "Auf Google+ teilen"
+
+#~ msgid "Accueil"
+#~ msgstr "Startseite"
+
+#~ msgid "Encadré"
+#~ msgstr "Box"
+
+#~ msgid "Coming Soon, cursive"
+#~ msgstr "Coming Soon, cursive"
+
+#~ msgid "Utiliser un template prédéfini"
+#~ msgstr "Use a predefined template"
+
+#~ msgid ""
+#~ "Etes-vous sûr ? Les réglages \"Intro\" et \"Contenu\" ne seront pas pris "
+#~ "en compte"
+#~ msgstr ""
+#~ "Are you sure? \"Intro\" and \"Content\" settings will not be taken into "
+#~ "account"
+
+#~ msgid "Continuer"
+#~ msgstr "Fortsetzen"
+
+#~ msgid "Ne pas afficher de templates prédéfinis"
+#~ msgstr "Do not display predefined templates"
+
+#~ msgid "Template"
+#~ msgstr "Template"
+
+#~ msgid "Custom template (défaut, recommandé)"
+#~ msgstr "Custom Template (Standard)"
+
+#~ msgid "1. Up the White"
+#~ msgstr "1. Up to white"
+
+#~ msgid "2. Back to Black"
+#~ msgstr "2. Back to Black"
+
+#~ msgid "3. Sliced and White"
+#~ msgstr "3 Sliced and white"
+
+#~ msgid "4. Fade to Grey"
+#~ msgstr "4. Fade to grey"
+
+#~ msgid "5. Personal Homepage"
+#~ msgstr "5. Personal homepage"
+
+#~ msgid "Exemples"
+#~ msgstr "Beispielen"
+
+#~ msgid ""
+#~ "Quelques exemples de réalisations avec simplelongform. Les templates "
+#~ "prédéfinis ci-dessous sont disponibles dans les options de chaque nouveau "
+#~ "longform."
+#~ msgstr ""
+#~ "Predefined templates below are available in the options for each new "
+#~ "longform."
+
+#~ msgid "Merci de patienter pendant le chargement de la page"
+#~ msgstr "Loading"
+
+#~ msgid ""
+#~ "Ajouter les longforms à la page d'acceuil (peut causer des problèmes de "
+#~ "compatibilité)"
+#~ msgstr ""
+#~ "Hinzufügen von Longforms zur Homepage (kann Kompatibilitätsprobleme "
+#~ "verursachen)"
+
+#~ msgid ""
+#~ "Ajouter les longforms à la recherche + aux archives de catégories et des "
+#~ "tags (si ils ne sont pas ajoutés de manière automatique par WP)"
+#~ msgstr ""
+#~ "Fügen Sie die Longforms Suche + Archive von Kategorien und Tags (Falls "
+#~ "sie nicht automatisch von WP hinzugefügt werden)"
+
+#~ msgid "1. Up to white"
+#~ msgstr "1. Up to white"
+
+#~ msgid "2. Back to black"
+#~ msgstr "2. Back to Black"
+
+#~ msgid "3. Sliced and white"
+#~ msgstr "3 Sliced and white"
+
+#~ msgid "4. Fade to grey"
+#~ msgstr "4. Fade to grey"
+
+#~ msgid "5. Personal homepage"
+#~ msgstr "5. Personal homepage"
+
+#~ msgid "Position de la barre de défilement"
+#~ msgstr "Position der Bildlaufleiste"
+
+#~ msgid "Simple Longform : note importante de mise à jour, v.1.0 : "
+#~ msgstr "Simple Long Form: important notice update, v1.0: "
+
+#~ msgid ""
+#~ "SLF a changé avec davantage de fonctionnalités. Tous les templates des "
+#~ "anciennes versions ont été conservés."
+#~ msgstr ""
+#~ "SLF has changed with more features. All of the previous settings are kept."
+
+#~ msgid "<a href=\"%1$s\">Ne plus afficher ce message</a>"
+#~ msgstr "<a href=\"%1$s\">Verstanden. Nachricht verwerfen</a>"
+
+#~ msgid "Custom template (défaut)"
+#~ msgstr "Custom Template (Standard)"
+
+#~ msgid "Aucune"
+#~ msgstr "Keine"
+
+#~ msgid "slf_linkedIn"
+#~ msgstr "Linkedin"
+
+#~ msgid ""
+#~ "SLF a changé avec davantage de fonctionnalités. Tous les templates des "
+#~ "anciennes versons ont été conservés."
+#~ msgstr ""
+#~ "SLF has changed with more features. All of the \"old\" templates have "
+#~ "been preserved."
+
+#~ msgid "Thème du Long Form"
+#~ msgstr "Long Form Template"
+
+#~ msgid "0. Custom template"
+#~ msgstr "0. Custom template"
+
+#~ msgid "Loader"
+#~ msgstr "Loader"
+
+#~ msgid "Effet de fermeture du loader"
+#~ msgstr "Schließung Effek (Loader)"
+
+#~ msgid "Animation (effet)"
+#~ msgstr "Animationen (Effekt)"
+
+#~ msgid "Barre supérieure fixe"
+#~ msgstr "Top Bar"
+
+#~ msgid "Afficher le lien vers le longform suivant-précédent"
+#~ msgstr "Siehe den Link zum nächsten vorherigen Longform"
+
+#~ msgid "Animation (effet Codrops)"
+#~ msgstr "Animation (Effekt)"
+
+#~ msgid "Sliced"
+#~ msgstr "Sliced"
+
+#~ msgid "Précédent : "
+#~ msgstr "Früher: "
+
+#~ msgid "Suivant : "
+#~ msgstr "Nächster: "
+
+#~ msgid "Long Form"
+#~ msgstr "Long Form"
+
+#~ msgid "Ajouter un #longform"
+#~ msgstr "#Longform Erstellen"
+
+#~ msgid "Edition du #longform"
+#~ msgstr "#Longform Erstellen"
+
+#~ msgid "Nouveau #longform"
+#~ msgstr "Erstellen"
+
+#~ msgid "Voir le #longform"
+#~ msgstr "#longform ansehen"
+
+#~ msgid "Rechercher un #longform"
+#~ msgstr "#longform suchen"
+
+#~ msgid "Aucun #longform trouvé"
+#~ msgstr "Keine #longform gefunden"
+
+#~ msgid "Aucun #longform dans la corbeille"
+#~ msgstr "Keine #longform im Papierkorb"
+
+#~ msgid "#longform (parent) :"
+#~ msgstr "#longform (parent):"
+
+#~ msgid "Simple Long Form : note importante de mise à jour, v.0.9.9.7 : "
+#~ msgstr "Simple Long Form: Hinweis: Update verfügbar: "
+
+#~ msgid ""
+#~ "pour conserver vos réglages actuels (ou pour les modifier) concernant "
+#~ "l'affichage de boutons de partage vers les réseaux sociaux, cliquez sur "
+#~ "le menu Options du plugin et enregistrez votre configuration."
+#~ msgstr ""
+#~ "Mit der neuen SLF-Version können die Social-Media-Buttons für jede "
+#~ "#longform einzeln ausgewählt werden. Damit ihre SLF-Einstellungen "
+#~ "erhalten bleiben, speichern sie die aktuelle Konfiguration im SLF-Menü "
+#~ "unter „Optionen“."
+
+#~ msgid "Utiliser avec Aesop Story Engine"
+#~ msgstr "Aesop Story Engine-Plugin aktiv?"
+
+#~ msgid ""
+#~ "Style additionnel / utilisateur avancé (remplacer le code d'slf ci-"
+#~ "dessous par le vôtre)"
+#~ msgstr "Custom CSS (Beispielcode ersetzen) "
+
+#~ msgid "Edition du Longform"
+#~ msgstr "Longform Erstellen"
+
+#~ msgid "Thèmes disponibles"
+#~ msgstr "Verfügbare Templates"
+
+#~ msgid ""
+#~ "Comme chaque #longform est unique, cette option est disponible à chaque "
+#~ "nouvelle création."
+#~ msgstr "Templates für jeden #longform-Artikel frei wählbar"
+
+#~ msgid ""
+#~ "5 familles de police sont disponibles pour la mise en forme du texte, et "
+#~ "5 Google Fonts pour customiser les titres de chaque Long Form."
+#~ msgstr "Wähle aus 5 Google-Schriftarten aus"
+
+#~ msgid "Publié le "
+#~ msgstr "Veröffentlicht am "
+
+#~ msgid "Lire la suite"
+#~ msgstr "Artikel lesen"
+
+#~ msgid "Loading"
+#~ msgstr "Loading"
+
+#~ msgid ""
+#~ "Style additionnel / utilisateur avancé (remplacer le code d'example ci-"
+#~ "dessous par le vôtre)"
+#~ msgstr "Custom CSS (Beispielcode ersetzen) "
+
+#~ msgid "longform"
+#~ msgstr "longform"
+
+#~ msgid "Thème du #longform"
+#~ msgstr "Long Form templates"
+
+#~ msgid "Anonyme"
+#~ msgstr "Anonymous"
+
+#~ msgid "% commentaires"
+#~ msgstr "% comments"
+
+#~ msgid "Aucun commentaire"
+#~ msgstr "No comment"
+
+#~ msgid "1 commentaire"
+#~ msgstr "1 Comment"
+
+#~ msgctxt "noun"
+#~ msgid "Comment"
+#~ msgstr "Comment"
+
+#~ msgid "Trackback"
+#~ msgstr "Trackback"
+
+#~ msgid "Pingback"
+#~ msgstr "Pingback"
+
+#~ msgid ""
+#~ "Utiliser le <code>get_trackback_url()</code> si vous ne voulez pas de "
+#~ "valeur embarquée."
+#~ msgstr ""
+#~ "Use <code>get_trackback_url()</code> instead if you do not want the value "
+#~ "echoed."
+
+#~ msgid "Les commentaires sont fermés"
+#~ msgstr "Comments are closed"
+
+#~ msgid "Introduire votre mot de passe pour voir le commentaire."
+#~ msgstr "Enter your password to view comments."
+
+#~ msgid "Commentaire pour %s"
+#~ msgstr "Comment on %s"
+
+#~ msgid "Répondre"
+#~ msgstr "Leave a reply"
+
+#~ msgid "Vous devez vous connecter"
+#~ msgstr "&rarr;  You must sign in to post a comment."
+
+#~ msgid "Laisser un commentaire"
+#~ msgstr "Leave a comment"
+
+#~ msgid "Vous devez vous connecter pour publier un commentaire"
+#~ msgstr "You must login in to leave a comment."
+
+#~ msgid "Supprimer une réponse."
+#~ msgstr "Cancel the reply"
+
+#~ msgid "Répondre à %s"
+#~ msgstr "Leave a reply to %s"
+
+#~ msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">dit:</span>"
+#~ msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+#~ msgid "Votre commentaire est en attente de mod&eacute;ration."
+#~ msgstr "Your comment is awaiting moderation."
+
+#~ msgid "%1$s à %2$s"
+#~ msgstr "%1$s at %2$s"
+
+#~ msgid "(Editer)"
+#~ msgstr "(Edit)"
+
+#~ msgid "Nom"
+#~ msgstr "Name"
+
+#~ msgid "Les champs requis sont marqués d'une %s"
+#~ msgstr "Required fields are marked with%s"
+
+#~ msgid "&rarr; Vous devez vous connecter</a> pour poster un commentaire."
+#~ msgstr "&rarr;  You must sign in to post a comment."
+
+#~ msgid ""
+#~ "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+#~ "\"Déconnexion\">Déconnexion ?</a>"
+#~ msgstr ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+
+#~ msgid "Votre adresse e-mail ne sera pas publiée."
+#~ msgstr "Your email address will not be published."
+
+#~ msgid ""
+#~ "Vous pouvers utiliser les balises <abbr title=\"HyperText Markup Language"
+#~ "\">HTML</abbr> : %s"
+#~ msgstr ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes: %s"
+
+#~ msgid "Envoyer"
+#~ msgstr "Submit"
+
+#~ msgid "Supprimer un commentaire"
+#~ msgstr "Canccel a reply"
+
+#~ msgid "Publier un commentaire"
+#~ msgstr "Leave a reply"
+
+#~ msgid "Afficher section 1 +"
+#~ msgstr "View Section 1 +"
+
+#~ msgid "Afficher section suivante +"
+#~ msgstr "Next section +"
+
+#~ msgid "Supprimer la réponse"
+#~ msgstr "Cancel the reply"
+
+#~ msgid "Envoyer un commentaire"
+#~ msgstr "Leave a comment"
+
+#~ msgid "Ajouter une section +"
+#~ msgstr "Add Section +"
+
+#~ msgid "Droid Sans"
+#~ msgstr "Droid Sans"
+
+#~ msgid "Open Sans"
+#~ msgstr "Open Sans"
+
+#~ msgid "Roboto"
+#~ msgstr "Roboto"
+
+#~ msgid "Arvo (serif)"
+#~ msgstr "Arvo (serif)"
+
+#~ msgid "Roboto Slab (serif)"
+#~ msgstr "Roboto Slab (serif)"
+
+#~ msgid "Police de caractères (titres)"
+#~ msgstr "Font family (titles)"
+
+#~ msgid "Sélectionner le thème du #longform"
+#~ msgstr "Select the template "
+
+#~ msgid "Sélectionner la police de caractères"
+#~ msgstr "Font family"
+
+#~ msgid "Ajouter"
+#~ msgstr "Add new"
+
+#~ msgid "Thèmes"
+#~ msgstr "Available templates"
+
+#~ msgid "Réglages généraux des #longform"
+#~ msgstr "General settings"
+
+#~ msgid "OhMyBox.info"
+#~ msgstr "OhMyBox.info"
+
+#~ msgid "http://www.ohmybox.info/longform/simplelongform"
+#~ msgstr "http://www.ohmybox.info/longform/simplelongform"
+
+#~ msgid "Partager cet article par e-mail"
+#~ msgstr "Share this article by e-mail"
+
+#~ msgid "Partager cet article sur LinkedIn"
+#~ msgstr "Share on LinkedIn"
+
+#~ msgid "Partager cet article sur Google+"
+#~ msgstr "Share on Google+"
+
+#~ msgid "Couleur du thème #longform"
+#~ msgstr "#longform theme color"
+
+#~ msgid "Nom d'utilisateur pour Twitter (@mon_nom)"
+#~ msgstr "Twitter username (@myName)"
